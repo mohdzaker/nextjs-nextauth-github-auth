@@ -48,7 +48,6 @@ This project provides a basic setup for integrating GitHub authentication in a N
 
 1. Create a `.env` file in the root directory and add the following environment variables:
     ```env
-    NEXTAUTH_URL=http://localhost:3000
     GITHUB_ID=your_github_client_id
     GITHUB_SECRET=your_github_client_secret
     ```
