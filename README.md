@@ -33,7 +33,7 @@ This project provides a basic setup for integrating GitHub authentication in a N
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/mohdzaker18/nextjs-nextauth-github-auth.git
+    git clone https://github.com/mohdzaker/nextjs-nextauth-github-auth.git
     cd nextjs-nextauth-github-auth
     ```
 
